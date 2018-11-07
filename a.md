@@ -2,7 +2,7 @@
 * first item
 * second item
 <<<<<<< HEAD
-* second item!!!!!!!!!!!
+* second item!!!!!!!!!!!~!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 * second item!!!!!!!!!!!
 * second item!!!!!!!!!!!
 * second item!!!!!!!!!!!
