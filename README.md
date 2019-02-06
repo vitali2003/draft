@@ -1,5 +1,4 @@
 # h1 Heading
-# Heading
 # h1 HEADING
 ##### test
 >>>>>>> 8225b98bf69a34ce5c8706c4e9a5f84fa50daac5
